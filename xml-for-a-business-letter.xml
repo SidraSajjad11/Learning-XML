@@ -1,0 +1,12 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+<!DOCTYPE letter SYSTEM "letter.dtd">
+<letter>
+    <contact type="from"></contact>
+    <contact type="to"></contact>
+
+    <saluatation>Dear Sir:</saluatation>
+    <paragraph>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos labore illo porro nemo doloremque voluptate voluptatibus, debitis exercitationem, consectetur aliquam, laudantium totam nostrum voluptatum voluptatem consequuntur inventore eius perferendis fuga!</paragraph>
+
+    <closing>Sincerely</closing>
+    <signature>Mrs. Zeeshan Khan</signature>
+</letter>
