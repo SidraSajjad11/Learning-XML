@@ -1,0 +1,162 @@
+<CATALOG>
+    <CD>
+        <TITTLE>Empire Burlesque</TITTLE>
+        <ARTIST>Bob Dylan</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Columbia</COMPANY>
+        <PRICE>10.90</PRICE>
+        <YEAR>1985</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Maggie May</TITTLE>
+        <ARTIST>Rod Stewart</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Pickwick</COMPANY>
+        <PRICE>8.50</PRICE>
+        <YEAR>1990</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Romanza</TITTLE>
+        <ARTIST>Andrea Bocelli</ARTIST>
+        <COUNTRY>EU</COUNTRY>
+        <COMPANY>Polydor</COMPANY>
+        <PRICE>10.80</PRICE>
+        <YEAR>1996</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>When a Man loves a woman</TITTLE>
+        <ARTIST>Percy Sledge</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Atlantic</COMPANY>
+        <PRICE>8.70</PRICE>
+        <YEAR>1987</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Black Angel</TITTLE>
+        <ARTIST>Savage Rose</ARTIST>
+        <COUNTRY>EU</COUNTRY>
+        <COMPANY>Mega</COMPANY>
+        <PRICE>10.90</PRICE>
+        <YEAR>1995</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>1999 Grammy Nominees</TITTLE>
+        <ARTIST>Many</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Grammy</COMPANY>
+        <PRICE>10.20</PRICE>
+        <YEAR>1999</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>For the good time</TITTLE>
+        <ARTIST>Kenny Rogers</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Mucik Master</COMPANY>
+        <PRICE>8.70</PRICE>
+        <YEAR>1995</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Big Willie style</TITTLE>
+        <ARTIST>Will Smith</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Columbia</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>1997</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Tupelo Honey</TITTLE>
+        <ARTIST>Van Morrison</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Polydor</COMPANY>
+        <PRICE>8.20</PRICE>
+        <YEAR>1971</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Soulsville</TITTLE>
+        <ARTIST>Jorn Hoel</ARTIST>
+        <COUNTRY>Norway</COUNTRY>
+        <COMPANY>WEA</COMPANY>
+        <PRICE>7.90</PRICE>
+        <YEAR>1996</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>The very best of</TITTLE>
+        <ARTIST>Cat Stevens</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Island</COMPANY>
+        <PRICE>8.90</PRICE>
+        <YEAR>1990</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Stop</TITTLE>
+        <ARTIST>Sam Brown</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>A and M</COMPANY>
+        <PRICE>8.90</PRICE>
+        <YEAR>1988</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Bridge of Spies</TITTLE>
+        <ARTIST>T'Pau</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Siren</COMPANY>
+        <PRICE>7.90</PRICE>
+        <YEAR>1987</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Private Dancer</TITTLE>
+        <ARTIST>Tina Turner</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Capitol</COMPANY>
+        <PRICE>8.90</PRICE>
+        <YEAR>1983</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Midt om natten</TITTLE>
+        <ARTIST>Kim Larsen</ARTIST>
+        <COUNTRY>EU</COUNTRY>
+        <COMPANY>Medley</COMPANY>
+        <PRICE>7.80</PRICE>
+        <YEAR>1983</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Pavarotti Gala Concert</TITTLE>
+        <ARTIST>Luciano Pavarotti</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Decca</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>1991</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>The dock of bay</TITTLE>
+        <ARTIST>Otis Redding</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Stax Record</COMPANY>
+        <PRICE>7.90</PRICE>
+        <YEAR>1968</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Picture Book</TITTLE>
+        <ARTIST>Simply Red</ARTIST>
+        <COUNTRY>EU</COUNTRY>
+        <COMPANY>Elektra</COMPANY>
+        <PRICE>7.20</PRICE>
+        <YEAR>1985</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Red</TITTLE>
+        <ARTIST>The Communards</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>London</COMPANY>
+        <PRICE>7.80</PRICE>
+        <YEAR>1987</YEAR>
+    </CD>
+    <CD>
+        <TITTLE>Unchain My Heart</TITTLE>
+        <ARTIST>Joe Cocker</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>EMI</COMPANY>
+        <PRICE>8.20</PRICE>
+        <YEAR>1987</YEAR>
+    </CD>
+</CATALOG>
