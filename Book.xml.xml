@@ -1,0 +1,21 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+<bookstore>
+    <book categorty="Cooking">
+        <title lang ="en">Everyday Ityalian</title>
+        <author>Giada De Laurentes</author>
+        <year>2005</year>
+        <price>30.00</price>
+    <book>
+    <book categorty="children">
+        <title lang ="en">Harry Potter</title>
+        <author>J.K.Rowling</author>
+        <year>2005</year>
+        <price>29.99</price>
+    <book>
+    <book categorty="web">
+        <title lang ="en">Learning XML</title>
+        <author>Eric T. Ray</author>
+        <year>2003</year>
+        <price>39.95</price>
+    <book>
+</bookstore>
